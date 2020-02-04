@@ -1,4 +1,4 @@
-# Foobar
+# Knife Game
 
 Knife game made by vyys in Javascript/Phaser 3.
 
